@@ -1,80 +1,64 @@
 <h1 align="center">Hi 👋, I'm Clawz</h1>
-<h3 align="center">🐱 A chill frontend developer from Nepal 🏔️</h3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding chill gif" />
+</p>
 
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on **React projects**
-- 🌱 I’m learning **Python & Django**
-- 💬 Ask me about **React.js, Tailwind, and UI/UX**
-- 📫 Reach me at: **pukarbohara9@gmail.com**
-- 🚀 My Projects: [GitHub Repositories](https://github.com/Clawz-123?tab=repositories)
+- 🌱 I’m currently learning **Python**
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Clawz-123?tab=repositories)
+- 💬 Ask me about **React.js**
+- 📫 Reach me at **pukarbohara9@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
-
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pukar-bohara" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://fb.com/pukarbohara" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@ClawzEditz100" target="blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/pukar-bohara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pukar bohara" height="30" width="30" /></a>
+  <a href="https://fb.com/pukarbohara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="pukar bohara" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/c/clawzeditz100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="clawzeditz100" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,nodejs,express,mongodb,mysql,java,git,github,figma,postman,docker,linux,aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clawz-123&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clawz-123&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
-### 🔥 GitHub Streak
-
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=clawz-123&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=clawz-123&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clawz-123&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clawz-123&theme=radical" alt="streaks" />
 </p>
 
 ---
 
-### 🏆 Trophies
-
+<h3 align="left">🏆 Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clawz-123&theme=dracula&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=clawz-123&theme=monokai" alt="github trophies" />
 </p>
 
 ---
 
-### 😂 Just for Fun
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEduZqUj0GmDkZTwI/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clawz-123&label=Profile%20views&color=0e75b6&style=flat" alt="clawz-123" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=clawz-123&label=Profile%20views&color=brightgreen&style=flat" alt="clawz-123" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="funny developer gif" />
 </p>
