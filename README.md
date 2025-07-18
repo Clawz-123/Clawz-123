@@ -16,7 +16,7 @@
 
 ```javascript
 const pukar = {
-    location: "Kathmandu, Nepal 🇳🇵",
+    location: "Morang, Nepal 🇳🇵",
     role: "Frontend Developer",
     passion: "Creating Beautiful Digital Experiences",
     currentlyLearning: ["Python", "Advanced React Patterns"],
@@ -38,7 +38,7 @@ const pukar = {
 |:---:|:---:|:---:|
 | React.js Wizardry | Node.js & Express | End-to-end Solutions |
 | Modern CSS & UI/UX | Database Design | API Development |
-| Responsive Design | Server Architecture | Cloud Deployment |
+| Responsive Design | Django & Postgres | Mern Stack |
 
 </div>
 
@@ -113,10 +113,10 @@ const pukar = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pukar-bohara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pukar-bohara-86a4b6285/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pukarbohara9@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pukarbohara)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/clawzeditz100)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pukar.bohara.694056)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clawzeditz100)
 
 </div>
 
