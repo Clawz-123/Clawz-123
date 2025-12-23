@@ -55,7 +55,6 @@ const pukar = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -66,7 +65,6 @@ const pukar = {
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -104,24 +102,14 @@ const pukar = {
 
 ---
 
-## 🌐 **Cloud & Hosting**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
----
-
 ## 💻 **Other Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🧩 **Other Tools & Tech I Use**
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF4088?style=for-the-badge&logo=adobe&logoColor=white)
@@ -148,11 +136,16 @@ const pukar = {
 
 ---
 
+
 ## 🏆 **Achievement Gallery**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clawz-123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=15&no-bg=true" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Clawz-123&theme=tokyonight&no-frame=true&margin-w=15"
+    alt="GitHub Achievement Trophies"
+  />
 </div>
+
 
 ---
 
