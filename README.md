@@ -1,7 +1,7 @@
 # ✨ Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab. com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pukar+Bohara;Frontend+Developer+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pukar+Bohara;Frontend+Developer+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ const pukar = {
     passion: "Creating Beautiful Digital Experiences",
     currentlyLearning: ["Python", "Advanced React Patterns"],
     languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["React. js", "Node.js", "Express"],
+    frameworks: ["React.js", "Node.js", "Express"],
     databases: ["MongoDB", "MySQL"],
     tools: ["Docker", "Git", "Figma", "Linux"],
     motto: "Code with purpose, design with passion ✨"
@@ -35,7 +35,7 @@ const pukar = {
 <div align="center">
   
 | 🎨 **Frontend Magic** | 🚀 **Backend Power** | 📱 **Full Stack** |
-|: ---:|:---:|:---:|
+|:---:|:---:|:---:|
 | React.js Wizardry | Node.js & Express | End-to-end Solutions |
 | Modern CSS & UI/UX | Database Design | API Development |
 | Responsive Design | Django & Postgres | Mern Stack |
@@ -62,9 +62,9 @@ const pukar = {
 
 ## ⚙️ **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express. js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20? style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -82,7 +82,7 @@ const pukar = {
 ## 🤖 **AI / Machine Learning**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -103,7 +103,7 @@ const pukar = {
 ---
 
 ## 💻 **Other Languages**
-![C](https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
@@ -126,12 +126,12 @@ const pukar = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clawz-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clawz-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clawz-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clawz-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clawz-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clawz-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="60%" />
 </div>
 
 ---
@@ -141,7 +141,7 @@ const pukar = {
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/? username=Clawz-123&theme=tokyonight&no-frame=true&margin-w=15&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=Clawz-123&theme=tokyonight&no-frame=true&margin-w=15"
     alt="GitHub Achievement Trophies"
   />
 </div>
@@ -152,8 +152,15 @@ const pukar = {
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/Clawz-123? tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20My%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/your-best-project)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/another-project)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Clawz-123?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
 
@@ -191,7 +198,7 @@ const pukar = {
 ## 📈 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clawz-123&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clawz-123&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -199,17 +206,17 @@ const pukar = {
 ## 🎯 **Profile Visitors**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clawz-123&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=clawz-123&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Thanks for visiting!" />
   
-  **⭐ Thanks for visiting!  Don't forget to star my repositories if you find them interesting! ⭐**
+  **⭐ Thanks for visiting! Don't forget to star my repositories if you find them interesting! ⭐**
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding! +%F0%9F%9A%80;Let's+build+something+amazing+together!;Made+with+%E2%9D%A4%EF%B8%8F+from+Nepal" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!;Made+with+%E2%9D%A4%EF%B8%8F+from+Nepal" alt="Footer Typing SVG" />
 </div>
