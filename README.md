@@ -56,7 +56,6 @@ const pukar = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -66,7 +65,6 @@ const pukar = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -85,7 +83,6 @@ const pukar = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -99,12 +96,6 @@ const pukar = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 💻 **Other Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -139,12 +130,15 @@ const pukar = {
 
 ## 🏆 **Achievement Gallery**
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Clawz-123&theme=tokyonight&no-frame=true&margin-w=15"
-    alt="GitHub Achievement Trophies"
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=clawz-123&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clawz-123&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
 
 
 ---
@@ -153,8 +147,8 @@ const pukar = {
 
 <div align="center">
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/your-best-project)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/another-project)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/EsportArena.git)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/Yatribhoj.git)
 
 </div>
 
