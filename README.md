@@ -145,12 +145,20 @@ const pukar = {
 
 ## 🚀 **Featured Projects**
 
+
 <div align="center">
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/EsportArena.git)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/Yatribhoj.git)
+<a href="https://github.com/clawz-123/EsportArena">
+  <img width="400" src="https://opengraph.githubassets.com/1/clawz-123/EsportArena" />
+</a>
+
+<a href="https://github.com/clawz-123/Yatribhoj">
+  <img width="400" src="https://opengraph.githubassets.com/1/clawz-123/Yatribhoj" />
+</a>
 
 </div>
+
+
 
 <div align="center">
   <a href="https://github.com/Clawz-123?tab=repositories">
